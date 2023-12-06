@@ -1,0 +1,21 @@
+body{
+    background-image: url(la\ señora\ mcgonagald.jpg);
+    background-size: cover;
+}
+h3{
+    color:blue;
+    text-decoration: double;
+}
+.velocity{
+    float: left;
+}
+.volum{
+    float: right;
+}
+img{width: 150px;
+border-radius: 80px;
+}
+canvas{
+    border: 5px;
+    border-radius: 20px;
+}
